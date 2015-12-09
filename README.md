@@ -1,2 +1,0 @@
-# lnooge
-lnooge Django project
